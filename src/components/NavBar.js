@@ -178,8 +178,9 @@ function NavBar() {
           <li>
             <a
               className="navbar-hover-effect"
-              href="#bot"
+              href="http://blubot.xyz/"
               rel="noopener noreferrer"
+              target="_blank"
             >
               BOT
             </a>
