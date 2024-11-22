@@ -43,8 +43,8 @@ function NavBar() {
       <div className="container">
         {/* Flex container for logo and hamburger */}
         <div className="logo-hamburger">
-          <a href="logo" className="logo display-none-desktop">
-            Alien
+          <a  href="#header" className="logo display-none-desktop">
+            Blu
           </a>
           <div className="hamburger" onClick={toggleMenu}>
             <div className={`bar ${isOpen ? "open" : ""}`}></div>
