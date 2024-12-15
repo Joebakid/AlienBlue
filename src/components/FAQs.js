@@ -136,8 +136,13 @@ function FAQs() {
         </div>
         <div className="text-center">
           <p>FEATURED SECTION</p>
-          <a target='_blank' href="https://memecoinseason.io/p/blu">
-            <img className="featured-memecoin"
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://memecoinseason.io/p/blu"
+          >
+            <img
+              className="featured-memecoin"
               alt="logo for memecoin feature"
               src="/img/Memecoin Season Logo.png"
             />
