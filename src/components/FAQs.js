@@ -135,6 +135,13 @@ function FAQs() {
           </a>
         </div>
         <div className="text-center">
+          <p>FEATURED SECTION</p>
+          <a target='_blank' href="https://memecoinseason.io/p/blu">
+            <img className="featured-memecoin"
+              alt="logo for memecoin feature"
+              src="/img/Memecoin Season Logo.png"
+            />
+          </a>
           <p>Copyright © 2024 Blu. All rights reserved.</p>
           <a href="mailto:info@basedblualien.com">info@basedblualien.com</a>
         </div>
