@@ -135,7 +135,7 @@ function FAQs() {
           </a>
         </div>
         <div className="text-center">
-          <p>FEATURED SECTION</p>
+          <p>FEATURED IN</p>
           <a
             target="_blank"
             rel="noreferrer"
